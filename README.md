@@ -113,4 +113,6 @@ Render Backend API: sẽ cập nhật sau.
 
 Không đưa file .env, mật khẩu, access token hoặc chuỗi kết nối MongoDB chứa thông tin xác thực lên GitHub. Các thông tin cấu hình bí mật được quản lý bằng biến môi trường.
 cap nhat 
-[https://web-236939.onrender.com](https://web-236939.onrender.com)   
+[https://web-236939.onrender.com](https://web-236939.onrender.com) 
+back end 
+https://api-236939.onrender.com/  
